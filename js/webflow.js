@@ -1445,7 +1445,7 @@
         var location = window.location;
         var tempLink = document.createElement("a");
         var linkCurrent = "w--current";
-        var indexPage = /index\.(html|php)$/;
+        var indexPage = /\.(html|php)$/;
         var dirList = /\/$/;
         var anchors;
         var slug;
