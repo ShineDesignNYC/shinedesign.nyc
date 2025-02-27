@@ -44,7 +44,7 @@ h4 {
 h5 {
   margin-top: 0;
   margin-bottom: 10px;
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 700;
   line-height: 16px;
 }
@@ -53,7 +53,7 @@ h6 {
   text-transform: uppercase;
   margin-top: 0;
   margin-bottom: 10px;
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 700;
   line-height: 16px;
 }
@@ -238,7 +238,7 @@ blockquote {
   color: silver;
   text-transform: uppercase;
   font-family: Jost, sans-serif;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .small-blog-title {
@@ -269,7 +269,7 @@ blockquote {
   margin-left: 0;
   margin-right: 0;
   padding-bottom: 60px;
-  font-size: 12px;
+  font-size: 14px;
   display: flex;
   position: relative;
 }
@@ -456,7 +456,7 @@ blockquote {
   align-items: center;
   padding-left: 0;
   font-family: Jost, sans-serif;
-  font-size: 12px;
+  font-size: 14px;
   display: flex;
 }
 
@@ -482,7 +482,7 @@ blockquote {
 .column-left {
   padding-left: 0;
   padding-right: 10px;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .collection-category {
@@ -536,10 +536,10 @@ blockquote {
   text-align: left;
   object-fit: fill;
   font-family: Jost, sans-serif;
-  font-size: 12px;
+  font-size: 14px;
   font-style: normal;
   font-weight: 400;
-  line-height: 12px;
+  line-height: 14px;
   display: block;
   position: static;
   overflow: visible;
@@ -548,12 +548,12 @@ blockquote {
 .collection-input:hover {
   color: #bf3a30;
   font-family: Jost, sans-serif;
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 400;
 }
 
 .collection-input p {
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .columns-2 {
@@ -792,7 +792,7 @@ blockquote {
   }
 
   .link {
-    font-size: 12px;
+    font-size: 14px;
   }
 
   .contact {
@@ -856,7 +856,7 @@ blockquote {
   p {
     text-align: left;
     margin-bottom: 10px;
-    font-size: 12px;
+    font-size: 14px;
   }
 
   .page-link {
@@ -984,7 +984,7 @@ blockquote {
     align-items: center;
     padding-left: 160px;
     padding-right: 160px;
-    font-size: 12px;
+    font-size: 14px;
     display: block;
   }
 
@@ -1046,7 +1046,7 @@ blockquote {
   }
 
   p {
-    font-size: 12px;
+    font-size: 14px;
   }
 
   .page-link {
@@ -1136,7 +1136,7 @@ blockquote {
     padding-top: 0;
     padding-bottom: 0;
     padding-left: 0;
-    font-size: 12px;
+    font-size: 14px;
     display: flex;
   }
 
@@ -1186,7 +1186,7 @@ blockquote {
   .paragraph-3 {
     padding-left: 45px;
     padding-right: 45px;
-    font-size: 12px;
+    font-size: 14px;
   }
 
   .blurb {
